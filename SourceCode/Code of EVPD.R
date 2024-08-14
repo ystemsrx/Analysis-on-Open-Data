@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 
 # Read the dataset
-df <- read.csv('C:\\Users\\Xinglai\\Desktop\\Electric_Vehicle_Population_Data.csv')
+df <- read.csv('Electric_Vehicle_Population_Data.csv')
 
 # Top 10 Electric Vehicle Makes
 top_makes <- df %>%
