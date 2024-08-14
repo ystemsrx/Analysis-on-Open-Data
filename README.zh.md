@@ -66,3 +66,29 @@
 ---
 
 本 README 提供了导航本仓库不同部分和内容的全面指南。有关更详细的信息，请参阅上述各个文件和文件夹。
+
+## 数据来源与署名
+
+本项目包含以下来源的数据集：
+
+1. **电动车辆普及数据**：Bureau of Transportation Statistics. (n.d.). 获取自 https://catalog.data.gov/dataset/electric-vehicle-population-data
+2. **交通公共财政统计数据 (TPFS)**：Bureau of Transportation Statistics. (2024). 获取自 https://catalog.data.gov/dataset/transportation-public-financial-statistics-tpfs
+3. **CIC-Darknet2020 网络流量数据**：Friedrich, P. (2020). 获取自 https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic
+
+请在使用本项目中的数据集时确保对这些来源进行适当的署名。
+
+## 许可证
+
+本项目采用 [知识共享署名 4.0 国际 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可证进行许可。
+
+您可以自由地：
+
+- **共享** — 在任何媒介或格式中复制、分发本作品
+- **演绎** — 修改、转换或以本作品为基础进行创作，用于任何目的，包括商业目的。
+
+但必须遵守以下条件：
+
+- **署名** — 您必须给予适当的署名，提供许可证链接，并注明是否对原始作品进行了修改。您可以以任何合理的方式进行，但不得以任何方式暗示许可人认可您或您的使用。
+
+更多详细信息，请参阅 [官方许可文本](https://creativecommons.org/licenses/by/4.0/legalcode.zh)。
+
