@@ -13,8 +13,7 @@ This repository contains the analysis and findings from a comprehensive report o
 - [Part 1: Exploring Open Data](Part1.md)
 - [Part 2: Hands-On with Public Data Sets](Part2.md)
 - [Part 3: In-Depth Analysis of Network Traffic Data](Part3.md)
-- [Source Code Folder](#source-code-folder)
-- [Source Code Collection](#source-code-collection)
+- [Source Code](#Source Code)
 - [Datasets](#datasets)
 
 ## Abstract
@@ -42,7 +41,7 @@ The third part presents an in-depth analysis of a network traffic dataset using 
 
 ## Source Code
 
-All the source codes used in the analyses are stored in the [Source Code](Source Code) folder. The folder contains the following scripts:
+All the source codes used in the analyses are stored in the [Source Code folder](Source Code). The folder contains the following scripts:
 - **Code of TPFS.r**: Script for analyzing the Transportation Public Financial Statistics dataset.
 - **Code of EVPD.r**: Script for analyzing the Electric Vehicle Population Data dataset.
 - **Code of DN.r**: Script for the in-depth analysis of the Network Traffic dataset.
@@ -53,14 +52,14 @@ For an aggregated view of all source codes used in this report, refer to [Source
 
 ## Datasets
 
-The datasets used in this report are provided in a compressed format to reduce file size. The data can be found in the [Datasets](Datasets) folder as a zip file containing all three datasets in CSV format. The zip file needs to be extracted before use.
+The datasets used in this report are provided in a compressed format to reduce file size. The data can be found in the [Datasets folder](Datasets) as a zip file containing all three datasets in CSV format. The zip file needs to be extracted before use.
 
 ### Contents:
 - **Transportation Public Financial Statistics**: Contains financial data related to transportation.
 - **Electric Vehicle Population Data**: Includes data on the distribution and characteristics of electric vehicles.
 - **Network Traffic Data (Darknet.csv)**: Network traffic data used for the in-depth analysis.
 
-Please navigate to the [Datasets](Datasets) folder to access the zip file.
+Please navigate to the [Datasets folder](Datasets) to access the zip file.
 
 ---
 
