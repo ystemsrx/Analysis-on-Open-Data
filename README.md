@@ -41,7 +41,7 @@ The third part presents an in-depth analysis of a network traffic dataset using 
 
 ## Source Code
 
-All the source codes used in the analyses are stored in the [Source Code folder](Source Code). The folder contains the following scripts:
+All the source codes used in the analyses are stored in the [Source Code folder](Source-Code). The folder contains the following scripts:
 - **Code of TPFS.r**: Script for analyzing the Transportation Public Financial Statistics dataset.
 - **Code of EVPD.r**: Script for analyzing the Electric Vehicle Population Data dataset.
 - **Code of DN.r**: Script for the in-depth analysis of the Network Traffic dataset.
