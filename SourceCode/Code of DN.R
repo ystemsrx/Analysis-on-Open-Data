@@ -6,7 +6,7 @@ library(corrplot)
 library(randomForest)
 
 # 导入数据集
-darknet <- read.csv("C:\\Users\\Xinglai\\Desktop\\Darknet.CSV")
+darknet <- read.csv("Darknet.CSV")
 
 # 数据转换
 darknet <- darknet %>% mutate_if(is.character, as.factor)
