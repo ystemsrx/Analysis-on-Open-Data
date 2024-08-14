@@ -63,3 +63,5 @@ The datasets used in this report are provided in a compressed format to reduce f
 Please navigate to the [Datasets](Datasets) folder to access the zip file.
 
 ---
+
+This README provides a comprehensive guide to navigating through the different sections and contents of this repository. For more detailed information, please refer to the individual files and folders mentioned above.
