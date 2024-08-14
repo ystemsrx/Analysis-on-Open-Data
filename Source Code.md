@@ -9,7 +9,7 @@
 library(ggplot2)
 
 # Load the dataset
-file_path <- "path/to/Transportation_Public_Financial_Statistics__TPFS_.csv"
+file_path <- "Transportation_Public_Financial_Statistics__TPFS_.csv"
 df <- read.csv(file_path)
 
 # Convert the year and value columns to appropriate types
@@ -37,7 +37,7 @@ library(ggplot2)
 library(dplyr)
 
 # Load the dataset
-df <- read.csv('path/to/Electric_Vehicle_Population_Data.csv')
+df <- read.csv('Electric_Vehicle_Population_Data.csv')
 
 # Top 10 electric vehicle manufacturers
 top_makes <- df %>%
@@ -77,7 +77,7 @@ library(corrplot)
 library(randomForest)
 
 # Load the dataset
-darknet <- read.csv("path/to/Darknet.CSV")
+darknet <- read.csv("Darknet.CSV")
 
 # Data transformation
 darknet <- darknet %>% mutate_if(is.character, as.factor)
