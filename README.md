@@ -64,3 +64,29 @@ Please navigate to the [Datasets folder](Datasets) to access the zip file.
 ---
 
 This README provides a comprehensive guide to navigating through the different sections and contents of this repository. For more detailed information, please refer to the individual files and folders mentioned above.
+
+## Data Sources and Attribution
+
+This project includes datasets from the following sources:
+
+1. **Electric Vehicle Population Data**: Bureau of Transportation Statistics. (n.d.). Retrieved from https://catalog.data.gov/dataset/electric-vehicle-population-data
+2. **Transportation Public Financial Statistics (TPFS)**: Bureau of Transportation Statistics. (2024). Retrieved from https://catalog.data.gov/dataset/transportation-public-financial-statistics-tpfs
+3. **CIC-Darknet2020 Internet Traffic**: Friedrich, P. (2020). Retrieved from https://www.kaggle.com/datasets/peterfriedrich1/cicdarknet2020-internet-traffic
+
+Please ensure proper attribution to these sources when using the datasets in this project.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+For more details, please refer to the [official license text](https://creativecommons.org/licenses/by/4.0/legalcode).
+
