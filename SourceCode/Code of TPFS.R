@@ -2,7 +2,7 @@
 library(ggplot2)
 
 # Load the dataset
-file_path <- "C:/Users/Xinglai/Desktop/Transportation_Public_Financial_Statistics__TPFS_.csv"
+file_path <- "Transportation_Public_Financial_Statistics__TPFS_.csv"
 df <- read.csv(file_path)
 
 # Convert year and value columns to appropriate types
