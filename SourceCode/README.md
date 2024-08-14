@@ -19,4 +19,4 @@ This folder contains the R scripts used for the analyses presented in the report
 
 ---
 
-For an aggregated view of all the code used throughout the report, please refer to `Source Code.md` in the root directory.
+For an aggregated view of all the code used throughout the report, please refer to [Source Code.md](../Source%20Code.md/) in the root directory.
