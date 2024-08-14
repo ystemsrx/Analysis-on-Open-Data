@@ -1,87 +1,3 @@
-# Part I
-
----
-
-# Abstract
-
-This report analyzes open data policies highlighting benefits like transparency, economic growth, improved services, and research advancements, as well as challenges such as privacy concerns, data misuse, legal issues, and resource demands. It recommends privacy guidelines, public engagement, data infrastructure investment, legal frameworks, interagency collaboration, and decision-making tools.
-
-Hands-on analyses of transportation, finance, and electric vehicle datasets illustrate data science techniques. An in-depth examination of a network traffic dataset using regression models, with Random Forest outperforming Linear Regression, is included.
-
-The report concludes by emphasizing the importance of addressing data privacy, big data management, interdisciplinary collaboration, technological advancements, ethical considerations, and legal constraints for future data scientists and engineers. Continuous learning is crucial in this evolving field.
-
----
-
-## Keywords
-
-- Open Data
-- Data Policies
-- Data Privacy
-- Data Misuse
-- Legal Issues
-- Resource Allocation
-- Exploratory Data Analysis
-- Trend Analysis
-- Transportation Finance
-- Electric Vehicle Population
-- Network Traffic Data
-- Regression Models
-- Random Forest
-- Linear Regression
-- Data Science
-- Data Infrastructure
-- Interdisciplinary Collaboration
-- Technological Advancements
-- Ethical Considerations
-- Continuous Learning
-
----
-
-# Index
-
-### Part I: Exploring Open Data
-1. Introduction
-2. Advantages of Open Data
-3. Disadvantages of Open Data
-4. Suggestions for Government on Open Data Policies
-5. Challenges for Future Data Scientists and Data Engineers
-6. Future Prospects
-7. Conclusion
-8. References
-
-### Part II: Hands-On with Public Data Sets
-1. Analysis of Transportation Public Financial Statistics
-   - Brief Introduction
-   - Objective of the Dataset
-   - Exploratory Data Analysis
-   - Findings
-2. Analysis of Electric Vehicle Population Data
-   - Brief Introduction
-   - Objective of the Dataset
-   - Exploratory Data Analysis
-   - Findings
-
-### Part III: In-depth Analysis of Network Traffic Data
-1. Introduction
-2. Analysis Process
-   - Data Loading and Preprocessing
-   - Data Cleaning
-   - Correlation Analysis
-   - Data Visualization
-   - Model Building
-   - Model Evaluation and Comparison
-3. Conclusion and Recommendations
-   - Conclusion
-   - Recommendations
-   - Limitations and Areas for Improvement
-
-### Appendix
-
-- Source Code
-- Comprehensive Analysis on Open Data Policies and Data Science Challenges
-
----
-
 # Part I: Exploring Open Data
 
 ## 1.1 Introduction
@@ -169,5 +85,35 @@ For future data scientists and engineers, understanding the challenges of data p
 ## 1.7 Conclusion
 
 Open data has the potential to transform society by enhancing transparency, driving innovation, and improving public services. However, it also presents significant challenges, particularly around privacy, misuse, and resource allocation. Governments must carefully craft open data policies that balance these benefits and drawbacks, considering legal, ethical, and practical factors. For future data scientists and engineers, navigating the complexities of big data, privacy concerns, interdisciplinary collaboration, technological advances, and ethical considerations will be key to success in this rapidly evolving field.
+
+---
+
+## Reference
+
+1.	Amann, R., Baichoo, S., Blencowe, B., Bork, P., Borodovsky, M., Brooksbank, C., Chain, P., Colwell, R., Daffonchio, D., Danchin, A., Lorenzo, V., Dorrestein, P., Finn, R., Fraser, C., Gilbert, J., Hallam, S., Hugenholtz, P., Ioannidis, J., Jansson, J., Kim, J., Klenk, H., Klotz, M., Knight, R., Konstantinidis, K., Kyrpides, N., Mason, C., Mchardy, A., Meyer, F., Ouzounis, C., Patrinos, A., Podar, M., Pollard, K., Ravel, J., Muñoz, A., Roberts, R., Rosselló-Móra, R., Sansone, S., Schloss, P., Schriml, L., Setubal, J., Sorek, R., Stevens, R., Tiedje, J., Turjanski, A., Tyson, G., Ussery, D., Weinstock, G., White, O., Whitman, W., & Xenarios, I. (2019). Toward unrestricted use of public genomic data. Science, 363, 350 - 352. https://doi.org/10.1126/science.aaw1280.
+
+2.	Beno, M., Figl, K., Umbrich, J., & Polleres, A. (2017). Open Data Hopes and Fears: Determining the Barriers of Open Data. 2017 Conference for E-Democracy and Open Government (CeDEM), 69-81. https://doi.org/10.1109/CeDEM.2017.22.
+
+3.	Chauvette, A., Schick-Makaroff, K., & Molzahn, A. (2019). Open Data in Qualitative Research. International Journal of Qualitative Methods, 18. https://doi.org/10.1177/1609406918823863.
+
+4.	Davydova, N., Bugera, O., Kyrenko, S., Serdiuk, N., & Shatilo, V. (2022). Legal regulation of the provision of information services in the field of open data. Informatologia. https://doi.org/10.32914/i.55.1-2.15.
+
+5.	During, R., Pleijte, M., Dam, R., & Salverda, I. (2016). The Dutch Participation Society Needs Open Data, but What Is Meant by Open?. Open Government. https://doi.org/10.4018/978-1-5225-1081-9.CH017.
+
+6.	Guibault, L., & Margoni, T. (2015). Legal Aspects of Open Access to Publicly Funded Research. IRPN: Open Commons (Including GPL.
+
+7.	Hardy, K., & Maurushat, A. (2017). Opening up government data for Big Data analysis and public benefit. Comput. Law Secur. Rev., 33, 30-37. https://doi.org/10.1016/J.CLSR.2016.11.003.
+
+8.	Luthfi, A. (2021). Decision-making Support for Opening Government Data. . https://doi.org/10.4233/UUID:48E47C01-34F3-41E3-88E3-1180AECFEC4B.
+
+9.	Nikiforova, A., & Zuiderwijk, A. (2022). Barriers to Openly Sharing Government Data: Towards an Open Data-adapted Innovation Resistance Theory. Proceedings of the 15th International Conference on Theory and Practice of Electronic Governance. https://doi.org/10.1145/3560107.3560143.
+
+10.	Ruben, M., & Stosic, M. (2023). Preserving privacy in the era of openness: Commentary on open science requirements for identifiable data in psychological science journals.. The American psychologist. https://doi.org/10.1037/amp0001282.
+
+11.	Stieglitz, S., Wilms, K., Mirbabaie, M., Hofeditz, L., Brenger, B., López, A., & Rehwald, S. (2020). When are researchers willing to share their data? – Impacts of values and uncertainty on open data in academia. PLoS ONE, 15. https://doi.org/10.1371/journal.pone.0234172.
+
+12.	Young, M., Rodriguez, L., Keller, E., Sun, F., Sa, B., Whittington, J., & Howe, B. (2019). Beyond Open vs. Closed: Balancing Individual Privacy and Public Accountability in Data Sharing. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3287560.3287577.
+
+13.	Zuiderwijk, A., & Janssen, M. (2014). The negative effects of open government data - investigating the dark side of open data. Proceedings of the 15th Annual International Conference on Digital Government Research. https://doi.org/10.1145/2612733.2612761.
 
 ---
