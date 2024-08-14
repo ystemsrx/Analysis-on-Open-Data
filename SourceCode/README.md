@@ -15,7 +15,7 @@ This folder contains the R scripts used for the analyses presented in the report
 ## Instructions
 
 1. **Run the scripts** in an R environment to replicate the analyses presented in the report.
-2. Ensure that the relevant datasets from the [Datasets folder](...Datasets) are extracted and available in the working directory before running the scripts.
+2. Ensure that the relevant datasets from the [Datasets folder](../Datasets/) are extracted and available in the working directory before running the scripts.
 
 ---
 
